@@ -3,7 +3,6 @@ import java.util.*;
 
 /**
  * Purpose - Ability to sort the entries in the address book by City, State, or Zip
- * @author - ASHISH SAHU
  */
 
 public class AddressBookSystem {
